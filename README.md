@@ -1,1 +1,1 @@
-# Turkish-Tweet-Dataset-Stance-Sentiment-Intent
+This repository includes a Turkish tweet dataset annotated with stance, sentiment, and intent information. The dataset is shared as a CSV file and includes tweet ids, stance targets together with stance, sentiment, and intent classifications.
